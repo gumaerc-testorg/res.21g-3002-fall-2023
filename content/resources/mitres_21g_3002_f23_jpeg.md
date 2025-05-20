@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/res-21g-3002-teaching-marguerite-de-navarres-heptameron-fall-2023/mitres_21g_3002_f23.jpeg
+file: courses/teaching-marguerite-de-navarres-heptameron/mitres_21g_3002_f23.jpeg
 file_size: 258236
 file_type: image/jpeg
 image_metadata:
