@@ -8,9 +8,8 @@ file_type: image/jpeg
 image_metadata:
   caption: "Title page of an 1880 edition of the *Heptam\xE9ron*, a collection of\
     \ short stories from the \"very high and very illustrious\" Princess Marguerite\
-    \ of Angoul\xEAme, Queen of Navarre. (Image is in the public domain. Source: {{%\
-    \ resource_link \"c0cd9df6-d753-474a-84cf-f68fea69c795\" \"Wikimedia Commons\"\
-    \ %}}.)"
+    \ of Angoul\xEAme, Queen of Navarre. (Image is in the public domain. Source: [Wikimedia\
+    \ Commons](https://commons.wikimedia.org/wiki/File:MargaretNavarreHeptameron.jpg).)"
   credit: ''
   image-alt: "Book inside cover that reads \"L'Heptam\xE9ron des nouvelles de tr\xE8\
     s haute et tr\xE8s illustre princesse Marguerite d'Angoul\xEAme, Reine de Navarre,\
